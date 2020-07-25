@@ -5,7 +5,7 @@ Miner.al is a linux based operating system that mines Gpu-Mineable coins. The OS
 # Dashboard
 Miner.al Dashboard helps you to do mining with your rigs remotely. It provides all features that you need to manage your rig.
 
-![mineros] https://www.google.com/imgres?imgurl=https%3A%2F%2Fminer.al%2Fassets%2Fweb%2Fimg%2Flogo1.png&imgrefurl=https%3A%2F%2Fminer.al%2F&tbnid=7yQFiaT3vQXyXM&vet=12ahUKEwjumYGBtunqAhUUahoKHfVgAa4QMygCegUIARCEAQ..i&docid=2dfyBJQQWXjnuM&w=2024&h=464&q=miner.al&ved=2ahUKEwjumYGBtunqAhUUahoKHfVgAa4QMygCegUIARCEAQ
+![mineros] https://ibb.co/TwKCKdR
 
 
 # Web App Mobile 
