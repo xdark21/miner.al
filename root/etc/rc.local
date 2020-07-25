@@ -1,0 +1,5 @@
+#!/bin/sh
+
+bash /root/mineros/bootstrap.sh &
+
+exit 0

@@ -1,0 +1,7 @@
+SHELL=/bin/sh
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+
+@reboot mineros nohup /root/mineros/cron/cron.sh > /dev/null 2>&1 &
+*/15 * * * *  mineros bash -c 'sudo /root/mineros/cron/update.sh' >/dev/null 2>&1
+
+## test 6
